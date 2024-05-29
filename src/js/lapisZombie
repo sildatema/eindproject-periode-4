@@ -1,0 +1,10 @@
+import { Actor, Engine, Vector, DisplayMode } from "excalibur"
+import { Resources, ResourceLoader } from './resources.js'
+//import { Enemys } from './enemys.js'
+
+
+export class LapisZombie extends Enemys {
+    onInitialize() {
+
+    }
+}
